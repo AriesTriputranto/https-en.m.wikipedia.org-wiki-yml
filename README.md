@@ -1,7 +1,8 @@
                *************
    -----------.  Presenting  ------------
 # https://wikipedia.org/wiki/sex#machine
-# https://github.wikipedia/wiki/sexmechine
-# Anyone who has an interest in knowing 
+# https://en.wikipedia/wiki/sexual
+# https://en.wikipedia.org/lebia
+# https://en.wikipedia.org/wiki/pornhub
 # by reading this article under the creative common 
-# standard international license License 2.0   
+# standard international license Apache 2.0   
