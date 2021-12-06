@@ -1,0 +1,264 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://spec.whatwg.org/
+Subject: =?utf-8?Q?Standards=20=E2=80=94=20WHATWG?=
+Date: Sun, 17 Oct 2021 09:24:09 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--bnkJSx4vuYDzowTwZwwBMJdXg127u9MTYbe6en5ocC----"
+
+
+------MultipartBoundary--bnkJSx4vuYDzowTwZwwBMJdXg127u9MTYbe6en5ocC----
+Content-Type: text/html
+Content-ID: <frame-2D244AD68C523942D3CFE5A8B9687178@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://spec.whatwg.org/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Standards — WHATWG</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#3A7908">
+<link rel="icon" crossorigin="" href="https://resources.whatwg.org/logo.svg">
+<link rel="stylesheet" crossorigin="" href="https://whatwg.org/style/shared.css">
+<link rel="stylesheet" crossorigin="" href="https://whatwg.org/style/subpages.css">
+
+</head><body><header>
+ <hgroup>
+  <h1>
+   <a href="https://whatwg.org/">
+    <img id="main-logo" crossorigin="" src="https://resources.whatwg.org/logo.svg" alt="">
+    WHATWG
+   </a>
+  </h1>
+  <h2>Standards</h2>
+ </hgroup>
+</header>
+
+<nav class="buttonish-links">
+ <a>Standards</a>
+ <a href="https://whatwg.org/faq">FAQ</a>
+ <a href="https://whatwg.org/policies">Policies</a>
+ <a href="https://participate.whatwg.org/">Participate</a>
+</nav>
+
+<p>The WHATWG works on a number of technologies that are fundamental parts of the web platform. They are organised somewhat arbitrarily based on the preferences of those editing the standard for those technologies.</p>
+
+<dl>
+ <dt><a href="https://compat.spec.whatwg.org/">Compatibility</a> (<a href="https://twitter.com/compatstandard">@compatstandard</a>)</dt>
+ <dd><p>The Compatibility Standard describes a collection of non-standard (and often vendor-prefixed) CSS properties and DOM APIs that web browsers need to support for compatibility with the de facto web.</p></dd>
+
+ <dt><a href="https://console.spec.whatwg.org/">Console</a> (<a href="https://twitter.com/consolelog">@consolelog</a>)</dt>
+ <dd><p>The Console Standard defines APIs for console debugging facilities.</p></dd>
+
+ <dt><a href="https://dom.spec.whatwg.org/">DOM</a> (<a href="https://twitter.com/thedomstandard">@thedomstandard</a>)</dt>
+ <dd><p>The DOM Standard defines the core infrastructure used to define the web.</p></dd>
+
+ <dt><a href="https://encoding.spec.whatwg.org/">Encoding</a> (<a href="https://twitter.com/encodings">@encodings</a>)</dt>
+ <dd><p>The Encoding Standard defines how character encodings work on the web.</p></dd>
+
+ <dt><a href="https://fetch.spec.whatwg.org/">Fetch</a> (<a href="https://twitter.com/fetchstandard">@fetchstandard</a>)</dt>
+ <dd><p>The Fetch Standard defines the networking model for resource retrieval on the web.</p></dd>
+
+ <dt><a href="https://fullscreen.spec.whatwg.org/">Fullscreen API</a> (<a href="https://twitter.com/fullscreenapi">@fullscreenapi</a>)</dt>
+ <dd><p>The Fullscreen API Standard defines how web pages can take over a user's entire screen (at the user's request), e.g., for gaming or to watch a video.</p></dd>
+
+ <dt><a href="https://html.spec.whatwg.org/multipage/">HTML</a> (<a href="https://twitter.com/htmlstandard">@htmlstandard</a>)</dt>
+ <dd><p>The HTML Standard is a kitchen sink full of technologies for the web. It includes the core markup language for the web, HTML, as well as numerous APIs like Web Sockets, Web Workers, <code>localStorage</code>, etc.</p></dd>
+
+ <dt><a href="https://infra.spec.whatwg.org/">Infra</a> (<a href="https://twitter.com/infrastandard">@infrastandard</a>)</dt>
+ <dd><p>The Infra Standard aims to define the fundamental concepts upon which standards are built.</p></dd>
+
+ <dt><a href="https://mimesniff.spec.whatwg.org/">MIME Sniffing</a> (<a href="https://twitter.com/mimesniff">@mimesniff</a>)</dt>
+ <dd><p>The MIME Sniffing Standard defines algorithms used to determine the type of resources.</p></dd>
+
+ <dt><a href="https://notifications.spec.whatwg.org/">Notifications API</a> (<a href="https://twitter.com/notifyapi">@notifyapi</a>)</dt>
+ <dd><p>The Notifications API Standard provides an API to display notifications to alert users outside the context of a web page.</p></dd>
+
+ <dt><a href="https://quirks.spec.whatwg.org/">Quirks Mode</a> (<a href="https://twitter.com/quirksstandard">@quirksstandard</a>)</dt>
+ <dd><p>The Quirks Mode Standard describes behaviours in CSS and Selectors that are not yet defined in the relevant specifications but that are nonetheless widely implemented.</p></dd>
+
+ <dt><a href="https://storage.spec.whatwg.org/">Storage</a> (<a href="https://twitter.com/storagestandard">@storagestandard</a>)</dt>
+ <dd><p>The Storage Standard defines an API for persistent storage and quota estimates, as well as the platform storage architecture.</p></dd>
+
+ <dt><a href="https://streams.spec.whatwg.org/">Streams</a> (<a href="https://twitter.com/streamsstandard">@streamsstandard</a>)</dt>
+ <dd><p>The Streams Standard provides APIs for creating, composing, and consuming streams of data that map efficiently to low-level I/O primitives.</p></dd>
+
+ <dt><a href="https://testutils.spec.whatwg.org/">Test Utils</a> (<a href="https://twitter.com/testutils">@testutils</a>)</dt>
+ <dd><p>The Test Utils Standard defines internal APIs for automating testing of web platform features implemented in web browsers.</p></dd>
+
+ <dt><a href="https://url.spec.whatwg.org/">URL</a> (<a href="https://twitter.com/urlstandard">@urlstandard</a>)</dt>
+ <dd><p>The URL Standard defines the infrastructure around URLs on the web.</p></dd>
+
+ <dt><a href="https://webidl.spec.whatwg.org/">Web IDL</a> (<a href="https://twitter.com/webidl">@webidl</a>)</dt>
+ <dd><p>The Web IDL Standard defines an interface definition language, Web IDL, that can be used to describe interfaces that are intended to be implemented in web browsers.</p></dd>
+
+ <dt><a href="https://xhr.spec.whatwg.org/">XMLHttpRequest</a> (<a href="https://twitter.com/xhrstandard">@xhrstandard</a>)</dt>
+ <dd><p>The XMLHttpRequest Standard defines the networking API exposed to scripts on the web.</p></dd>
+</dl>
+
+<p>The WHATWG also works on a <a href="https://idea.whatwg.org/">number of ideas</a> that aspire to become standards one day.</p>
+
+<footer>
+ <p><small>Copyright © WHATWG (Apple, Google, Mozilla, Microsoft). This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</small></p>
+</footer>
+
+
+</body></html>
+------MultipartBoundary--bnkJSx4vuYDzowTwZwwBMJdXg127u9MTYbe6en5ocC----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://whatwg.org/style/shared.css
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+:link { color: rgb(0, 0, 255); }
+
+:visited { color: rgb(14, 56, 140); }
+
+html { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background-color: rgb(235, 235, 235); color: black; --whatwggreen: #3A7908; --body-width: 900px; --body-padding: 8px; --body-top-padding: 32px; --header-main-font-size: 32px; }
+
+@media (max-width: 600px) {
+  html { --header-main-font-size: 19px; --body-top-padding: 8px; }
+}
+
+body { max-width: var(--body-width); margin: 0px auto; padding-right: ; padding-bottom: ; padding-left: ; padding-top: var(--body-top-padding); }
+
+#main-logo { width: 50px; height: 50px; margin-right: 10px; vertical-align: middle; }
+
+@media (min-width: 600px) {
+  #main-logo { width: 100px; height: 100px; margin-right: 20px; }
+}
+
+header > hgroup > h1 { font-size: var(--header-main-font-size); }
+
+.buttonish-links { --space-between: 10px; display: flex; }
+
+@media (max-width: 600px) {
+  .buttonish-links { --space-between: 3px; }
+}
+
+.buttonish-links > a { padding: 10px; text-align: center; border: 8px solid rgba(58, 121, 8, 0.2); background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-color: ; background-clip: padding-box; text-decoration: none; color: white; font-size: 17px; letter-spacing: 0.3px; margin-left: var(--space-between); margin-right: var(--space-between); flex: 1 1 0%; }
+
+@media (max-width: 600px) {
+  .buttonish-links > a { border-width: 4px; padding: 5px; }
+}
+
+.buttonish-links > a:first-of-type { margin-left: 0px; }
+
+.buttonish-links > a:last-of-type { margin-right: 0px; }
+
+.buttonish-links > a:hover, .buttonish-links > a:focus { transition: all 0.2s ease 0s; transform: scale(1.1); }
+
+.buttonish-links > a:not([href]) { background: transparent; color: black; font-weight: bold; }
+
+.buttonish-links > a:not([href]):hover, .buttonish-links > a:not([href]):focus { transition: none 0s ease 0s; transform: none; }
+
+footer { border-top: 1px solid black; text-align: center; font-size: 12px; }
+
+footer small { font-size: inherit; }
+
+footer > * { font-style: normal; margin: 12px 0px; }
+------MultipartBoundary--bnkJSx4vuYDzowTwZwwBMJdXg127u9MTYbe6en5ocC----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://whatwg.org/style/subpages.css
+
+@charset "utf-8";
+
+body { --body-padding: 8px; background: white; padding-left: var(--body-padding); padding-right: var(--body-padding); line-height: 1.7; }
+
+header { margin-bottom: var(--body-top-padding); }
+
+header > hgroup { display: flex; align-items: center; }
+
+header > hgroup > * { margin: 0px; font-weight: normal; }
+
+header > hgroup > h1 { font-size: var(--header-main-font-size); }
+
+header > hgroup > h1 > a { display: flex; align-items: center; text-decoration: none; }
+
+header > hgroup > h1 > a:link, header > hgroup > h1 > a:visited { color: inherit; }
+
+header > hgroup > h2 { font-size: var(--header-main-font-size); color: rgb(40, 40, 40); margin-left: 0.3em; }
+
+header > hgroup > h2::before { content: " – "; }
+
+body > nav { margin: 0 calc(-1 * var(--body-padding)); padding: 0 var(--body-padding) 20px; border-bottom: 1px solid var(--whatwggreen); }
+
+h3 { border-bottom: 1px solid rgb(170, 170, 170); font: 1.2em sans-serif; margin: 1.2em 0px; }
+
+h4 { font: bold 1.1em sans-serif; margin: 1.2em 0px; }
+
+h5, h6 { font: bold 1em sans-serif; margin: 1.2em 0px; }
+
+ol, ul, dl, p, address { margin-top: 1.1em; margin-bottom: 1.1em; }
+
+dl ul, dl ol, li { margin-top: 0.2em; margin-bottom: 0.2em; }
+
+dt { margin-top: 1.2em; margin-bottom: 0.4em; font: 1.1em sans-serif; }
+
+abbr, acronym { border: none; text-decoration: none; }
+
+address { font-style: normal; }
+
+form { margin: 0px; padding: 0px; }
+
+input { font: inherit; }
+
+dfn { font-weight: bold; font-style: normal; }
+
+dl > dt { margin: 1em 0px 0px; }
+
+dl > dd { margin: 0.25em 0px 0.25em 2em; }
+
+ol.dated { list-style: disc; }
+
+dl.compact > div { margin: 1em 0px; }
+
+dl.compact > div > dt { display: inline; margin: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-weight: bold; }
+
+dl.compact > div > dt::after { content: ": "; }
+
+dl.compact > div > dd { display: inline; margin: 0px; }
+
+dl.compact > div > dd:not(:last-of-type)::after { content: "; "; }
+
+.note { position: relative; color: green; background: rgb(221, 255, 221); font-style: italic; margin-left: 2em; padding-left: 2em; }
+
+.note em, .note i, .note var { font-style: normal; }
+
+span.note { padding: 0px 2em; }
+
+.note::before { content: "Note"; background: green; color: white; padding: 0.15em 0.25em; font-style: normal; position: absolute; top: -0.2em; left: -1.5em; transform: rotate(-5deg); }
+
+.example { display: block; color: rgb(34, 34, 34); background: rgb(238, 238, 238); margin-left: 2em; padding-left: 3em; position: relative; }
+
+.example::before { content: "Example"; background: rgb(34, 34, 34); color: rgb(238, 238, 238); padding: 0.15em 0.25em; font: 1em "Helvetica Neue", sans-serif, "Droid Sans Fallback"; position: absolute; top: 0.2em; left: -2.25em; transform: rotate(-5deg); }
+
+a.self-link { color: inherit; text-decoration: none; transition: opacity 0.2s ease 0s; opacity: 0.5; }
+
+a.self-link:hover { opacity: 1; }
+
+a.self-link::before { content: "§"; display: inline-block; width: var(--width); }
+
+@media (min-width: 960px) {
+  h2, h3, h4, h5, h6 { position: relative; }
+  a.self-link { --width: 1em; font-size: 83%; position: absolute; top: 0px; left: calc(-1 * var(--body-padding) - var(--width) - 6px); text-align: right; }
+}
+
+@media (max-width: 960px) {
+  a.self-link { padding-left: 0.5em; }
+}
+------MultipartBoundary--bnkJSx4vuYDzowTwZwwBMJdXg127u9MTYbe6en5ocC----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://resources.whatwg.org/logo.svg
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<circle cx="50" cy="50" r="45" fill="#fff" stroke="#3c790a" stroke-width="10"/>
+<path d="m38,38c0-12,24-15,23-2c0,9-16,13-16,23v7h10v-4c0-9,17-12,17-27c-2-22-45-22-45,3zm7,32h10v10h-10" fill="#3c790a"/>
+</svg>
+
+------MultipartBoundary--bnkJSx4vuYDzowTwZwwBMJdXg127u9MTYbe6en5ocC------
